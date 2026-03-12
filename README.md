@@ -1,3 +1,19 @@
 # TodoApp-FastAPI-EricRoby_Udemy
 
-Built this fullstack TodoApp using FastAPI
+Project: Fullstack Todo App
+
+Backend:
+- FastAPI
+- SQLAlchemy
+- JWT Authentication
+- PostgreSQL
+- Render Deployment
+
+Frontend:
+- HTML / Bootstrap (template from course, not by me)
+
+Features:
+- User registration
+- Login authentication
+- Create / update / delete todos
+- Protected routes
